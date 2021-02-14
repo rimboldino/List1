@@ -1,0 +1,26 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",DAZN 1 FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126941.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",DAZN 10
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126952.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",DAZN 11
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126953.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",DAZN 12
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126954.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",DAZN 13
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126955.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",DAZN 14
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126956.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",DAZN 2 HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126943.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",DAZN 3 HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126945.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",DAZN 4
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126946.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",DAZN 5
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126947.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",DAZN SERIE A
+http://mags.vip:2086/live/miriam/miriam123/94212.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",SKY SPORT FOOTBALL
+http://mags.vip:2086/live/miriam/miriam123/94131.ts?checkedby:hlscat.com
